@@ -2,9 +2,7 @@
 $(document).ready(function(){
   let valSelected, incomesVal, userVal, expensesVal, incomesTextDescription,
   expensesTextDescription, descriptionContent, bugetVal=0;
-  let testVar=0;
-  let testVar2=0;
-
+  
   $(document).on('click', '#save', function(){
     incomeDescription();
   });
