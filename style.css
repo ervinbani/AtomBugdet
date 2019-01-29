@@ -1,0 +1,37 @@
+body{
+  padding:0;
+  margin:0;
+
+}
+
+.container{
+  background: lightgrey;
+}
+.incomes{
+  width:20%;
+  height: 100%;
+  margin-left: 40%;
+  background: lightblue;
+}
+.expenses{
+  width:20%;
+  height: 100%;
+  margin-left: 40%;
+  background: red;
+}
+.description-section__left{
+  background: white;
+  border-right:1px solid grey;
+  display: flex;
+  justify-content: space-between;
+  padding:5px;
+}
+.fas{
+  cursor: pointer;
+}
+.tot-budget{
+  background:green;
+  width:20%;
+  height: 100%;
+  margin-left: 40%;
+}
