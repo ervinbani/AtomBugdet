@@ -26,6 +26,7 @@ $(document).ready(function(){
       $(this).parents('.description-section__left').remove();
       //comment per testare github
       //this is a new comment
+      //document.getElementById
     }
 
 
