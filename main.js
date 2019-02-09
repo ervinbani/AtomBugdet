@@ -24,7 +24,8 @@ $(document).ready(function(){
       $('#Budget-val').text(newBudget);
       //aggiorno il valore dell'income
       $(this).parents('.description-section__left').remove();
-
+      //comment per testare github
+      //this is a new comment
     }
 
 
