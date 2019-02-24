@@ -7,7 +7,7 @@ $(document).ready(function(){
   $(document).on('click', '#save', function(){
     incomeDescription();
   });
-//commento di prova
+//commento di prova viausal
   $(document).on('click', '.fas', function(){
     let oldBudget  = parseInt($('#Budget-val').text());
 
